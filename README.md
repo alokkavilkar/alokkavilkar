@@ -1,4 +1,4 @@
-<h1 style="font-family: "Lucida Console", "Courier New", monospace;" align="center">Hi 👋, I'm Alok Kavilkar</h1>
+<h1 style="font-family: cursive;" align="center">Hi 👋, I'm Alok Kavilkar</h1>
 <h3 align="center">An enthusiastic Indian developer eager to delve deeper into cutting-edge technologies.</h3>
 
 - 🔭 I’m currently working on **ReactJS**
