@@ -1,6 +1,6 @@
 <h1 style="font-family: cursive;" align="center">Hi 👋, I'm 𝖠𝗅𝗈𝗄 𝖪𝖺𝗏𝗂𝗅𝗄𝖺𝗋</h1>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **ReactJS, DevOps**
 
 - 🌱 I’m currently learning **ReactJS, DevOps, Flutter**
 
