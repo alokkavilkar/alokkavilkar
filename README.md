@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **ReactJS, DevOps**
 
-- 🌱 I’m currently learning **ReactJS, DevOps, Flutter**
+- 🌱 I’m currently learning **ReactJS, DevOps, React Native**
 
 - 👯 I’m looking to collaborate on **ReactJS Project**
 
