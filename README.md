@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=courier&weight=800&size=24&pause=1000&color=000000&background=FFFEE500&center=true&vCenter=true&random=false&width=435&lines=I'm+Alok+Kavilkar+%F0%9F%91%8B+;Passionate+Web+Developer+%F0%9F%95%B8%EF%B8%8F+;Currently+Exploring+DevOps+%E2%99%BE%EF%B8%8F+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=courier&weight=800&size=24&pause=1000&color=000000&background=FFFEE500&center=true&vCenter=true&random=false&width=435&lines=I'm+Alok+Kavilkar+%F0%9F%91%8B+;Passionate+Web+Developer+%F0%9F%95%B8%EF%B8%8F+; +" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on **ReactJS, DevOps**
 
