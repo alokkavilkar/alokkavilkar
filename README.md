@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding Profile</h3>
 <p align="left">
   <div align="center">
   <a href="https://www.leetcode.com/alokkavilkar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="javascript logo"  /></a>
